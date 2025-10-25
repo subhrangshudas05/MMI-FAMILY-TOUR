@@ -92,6 +92,78 @@ The front-facing application provides a smooth, end-to-end booking experience:
 
 ---
 
+
+## 🖼️ Project Screenshots
+
+Here’s a visual walkthrough of the **Mimi Family Tour** platform — from the landing page to the admin panel.
+
+---
+
+### 🏖️ Hero Section
+
+<img src="./1-projectImages/1st.png" alt="Hero Section" width="900"/>
+
+> Clean, welcoming hero banner introducing the brand with a call to action.
+
+---
+
+### 🔍 Search Functionality
+
+<img src="./1-projectImages/2nd.png" alt="Search Bar" width="900"/>
+
+> Users can explore destinations by name, region, or category — smooth and responsive.
+
+---
+
+### 🧳 Search Results – Travel Packages
+
+<img src="./1-projectImages/3rd.png" alt="Search Results" width="900"/>
+
+> Displays curated packages dynamically with images, pricing, and quick view details.
+
+---
+
+### 🏝️ Package Details Page
+
+<img src="./1-projectImages/4th.png" alt="Package Details Page" width="900"/>
+
+> Each package includes a detailed day-by-day itinerary, pricing breakdown, and image gallery.
+
+---
+
+### 🧾 Booking Form & Itinerary Plans
+
+<img src="./1-projectImages/5th.png" alt="Booking Form & Itinerary" width="900"/>
+
+> Users can seamlessly book tours and view personalized travel plans in one place.
+
+---
+
+### 🛡️ Admin Dashboard
+
+<img src="./1-projectImages/6th.png" alt="Admin Panel" width="900"/>
+
+> The admin panel offers complete control over bookings, packages, and messages.
+
+---
+
+### 📱 Mobile Hero Section
+
+<img src="./1-projectImages/7th.png" alt="Mobile Hero Section" width="300"/>
+
+> Optimized for mobile with a responsive, clean hero layout.
+
+---
+
+### 🍔 Mobile Menu (Hamburger)
+
+<img src="./1-projectImages/8th.png" alt="Mobile Menu Section" width="300"/>
+
+> Compact and smooth mobile menu with easy navigation across sections.
+
+---
+
+
 ## 🤝 Freelance Contact
 
 This project was developed by **Subhrangshu Das** for **Mimi Family Tour**.  
