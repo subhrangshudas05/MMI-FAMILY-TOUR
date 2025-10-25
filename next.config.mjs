@@ -1,4 +1,59 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: {
+    domains: [
+      "images.unsplash.com",
+      "plus.unsplash.com",
+      "i.pinimg.com",
+      "static.toiimg.com",
+      "wallpapers.com",
+      "thumbs.dreamstime.com",
+      "www.holidify.com",
+      "dynamic-media-cdn.tripadvisor.com",
+      "miro.medium.com",
+      "lp-cms-production.imgix.net",
+      "4.bp.blogspot.com",
+      "3.bp.blogspot.com",
+      "majesticjourney.in",
+      "clubmahindra.gumlet.io",
+      "travelojo.in",
+      "i0.wp.com",
+      "i.ytimg.com",
+      "shrikashidham.com",
+      "treeofliferesorts.com",
+      "images.travelandleisureasia.com",
+      "soultravelindia.com",
+      "specialplacesofindia.com",
+      "encrypted-tbn0.gstatic.com",
+      "images.pexels.com",
+      "t.eucdn.in",
+      "badrinath-kedarnath.gov.in",
+      "www.rajyasameeksha.com",
+      "www.taleof2backpackers.com",
+      "www.annees-de-pelerinage.com",
+      "travel.paintedstork.com",
+      "templeyatri.in",
+      "www.bhoutan-roads.fr",
+      "www.andbeyond.com",
+      "www.wondersofnepal.com",
+      "niltonschutz.com.br",
+      "www.marveladventure.com",
+      "media.nepaltrekadventures.com",
+      "tourmyodisha.com",
+      "sdzsafaripark.org",
+      "www.kazirangaadventures.com",
+      "www.northeastbullet.com",
+      "www.oddessemania.in",
+      "temple.yatradham.org",
+      "www.tourmyindia.com",
+    ],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**", // allows any HTTPS domain
+      },
+    ],
+  },
+};
 
 export default nextConfig;
