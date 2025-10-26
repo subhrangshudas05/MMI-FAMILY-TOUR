@@ -42,7 +42,7 @@ This application is engineered for **performance**, **scalability**, and a **bea
   All API routes are managed internally within the Next.js project, ensuring a fast, cohesive full-stack environment.
 
 - **Authentication:**  
-  Secure user and admin sign-in handled via **NextAuth.js** (formerly Auth.js).
+  Secure user and admin sign-in handled via **NextAuth**.
 
 - **Database Management:**  
   Data persistence handled by **MongoDB**, connected via **Mongoose**, for reliable storage of all user and application data.
@@ -88,7 +88,7 @@ The front-facing application provides a smooth, end-to-end booking experience:
 | **Authentication** | NextAuth.js |
 | **Animation** | Framer Motion |
 | **Visuals** | Swiper.js, Lucide React |
-| **Utilities** | clsx, tailwind-merge |
+| **Utilities** | clsx, tailwind-css |
 
 ---
 
